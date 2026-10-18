@@ -1,0 +1,6 @@
+.env
+.env.*
+*.jks
+*.keystore
+key.properties
+node_modules/
