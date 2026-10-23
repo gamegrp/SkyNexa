@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.skynexa.nitaistudio",
+      "sha256_cert_fingerprints":
+        ["66:86:E3:20:3B:A3:EF:56:A4:85:F8:B0:A2:AB:63:A6:5F:E0:DC:49:9A:1F:EB:C6:07:68:CA:F4:39:CE:DF:55"]
+    }
+  }
+]
